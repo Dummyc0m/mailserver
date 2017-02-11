@@ -31,8 +31,6 @@ RUN BUILD_DEPS=" \
     amavisd-new \
     amavisd-milter \
     spamassassin \
-    clamav-daemon \
-    clamav-milter \
     libsys-syslog-perl \
     libmail-spf-perl \
     libhttp-message-perl \
